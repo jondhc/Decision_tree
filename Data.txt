@@ -1,0 +1,12 @@
+D1 yes rainy cool normal false
+ D2 no rainy cool normal true
+ D3 yes overcast hot high false
+ D4 no sunny mild high false
+ D5 yes rainy cool normal false
+ D6 yes sunny cool normal false
+ D7 yes rainy cool normal false
+ D8 yes sunny hot normal false
+ D9 yes sunny cool high false
+ D10 no sunny mild high true
+
+D11 ? sunny cool high false

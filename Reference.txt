@@ -1,0 +1,13 @@
+rainy = 1
+overcast = 2
+sunny = 3
+
+cool = 1
+mild = 2
+hot = 3
+
+normal = 1
+high = 2
+
+true = 1
+false = 0
